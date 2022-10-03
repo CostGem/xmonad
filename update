@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cp xmonad.hs xmonad.dev.hs
+xmonad --recompile
+xmonad --restart 
