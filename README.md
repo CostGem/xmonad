@@ -2,6 +2,9 @@
 
 ![Screenshot](/assets/images/screenshots/screen.png)
 
+Forked https://github.com/JoshuaJakowlew/xmonad
+
+# Hotkeys
 Window focus
 
 * `M1-<Tab>` - switch focus up
