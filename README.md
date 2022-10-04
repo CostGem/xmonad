@@ -1,6 +1,6 @@
 # My XMonad config
 
-![Screenshot](https://github.com/CostGem/xmonad/blob/main/assets/screenshots/screen.png?raw=true)
+![Screenshot](assets/screenshots/screen.png)
 
 Window focus
 
