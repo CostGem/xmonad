@@ -151,7 +151,7 @@ appKeys = \c ->
   [ ("M-S-c"       , kill                    ) 
   , ("M-S-<Return>", spawn $ terminal c      )
   , ("M-e"         , spawn "nautilus"        )
-  , ("M-f"         , spawn "flatpak run com.google.Chrome"         )
+  , ("M-f"         , spawn "firefox         )
   , ("M-w"         , spawn "codium"          )
   , ("M-t"         , spawn "flatpak run org.telegram.desktop")
   , ("M-d"         , spawn "discord"         )
