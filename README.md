@@ -1,8 +1,10 @@
 # My XMonad config
 
-![Screenshot](/assets/images/screenshots/screen.png)
+# This config is fork
+https://github.com/JoshuaJakowlew/xmonad
 
-Forked https://github.com/JoshuaJakowlew/xmonad
+# Screenshots
+![Screenshot](/assets/images/screenshots/screen.png)
 
 # Hotkeys
 Window focus
