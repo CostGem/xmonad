@@ -1,0 +1,5 @@
+$ /home/costgem/.xmonad/build /home/costgem/.xmonad/xmonad-x86_64-linux
+Stack looks for packages in the directories configured in
+the 'packages' and 'extra-deps' fields defined in your stack.yaml
+The current entry points to /home/costgem/.xmonad/xmonad/,
+but no .cabal or package.yaml file could be found there.
