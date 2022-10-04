@@ -113,6 +113,7 @@ interval = 3.0
 format-connected = <label-connected>
 format-disconnected = <label-disconnected>
 label-connected-overline = ${colors.n-green}
+label-disconnected-overline = ${colors.n-green}
 label-connected = ETHERNET (%netspeed:9%  )
 label-disconnected = NOT CONNECTED
 
