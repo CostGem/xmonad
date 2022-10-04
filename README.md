@@ -1,7 +1,6 @@
 # My XMonad config
-
-# This config is fork
-https://github.com/JoshuaJakowlew/xmonad
+This config is a fork. It implements a handy polybar to work on ArchLinux.
+Author: https://github.com/JoshuaJakowlew/xmonad
 
 # Screenshots
 ![Screenshot](/assets/images/screenshots/screen.png)
@@ -87,3 +86,11 @@ Audio keys
 Prompt
 
 * `M-x` - shell prompt
+
+# Dependencies
+
+* `rofi`
+* `dbus`
+* `polybar`
+* `pulseaudio`
+* `pavucontrol`
