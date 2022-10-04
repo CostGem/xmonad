@@ -1,6 +1,6 @@
 # My XMonad config
 
-![Screenshot](/assets/screenshots/screen.png)
+![Screenshot](/assets/images/screenshots/screen.png)
 
 Window focus
 
