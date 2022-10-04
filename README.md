@@ -1,5 +1,5 @@
 # My XMonad config
-This config is a fork. It implements a handy polybar to work on ArchLinux.
+This config is a fork. It implements a handy polybar to work on ArchLinux. <br />
 Author: https://github.com/JoshuaJakowlew/xmonad
 
 # Screenshots
