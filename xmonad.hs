@@ -64,8 +64,8 @@ myXConfig = def
   , workspaces         = myWorkspaces
   
   , borderWidth        = 2
-  , normalBorderColor  = "#379e8d"
-  , focusedBorderColor = "#32c9b0"
+  , normalBorderColor  = "#928374"
+  , focusedBorderColor = "#b16286"
 
   , keys               = \c -> mkKeymap c (myKeymap c)
 
@@ -151,9 +151,9 @@ appKeys = \c ->
   [ ("M-S-c"       , kill                    ) 
   , ("M-S-<Return>", spawn $ terminal c      )
   , ("M-e"         , spawn "nautilus"        )
-  , ("M-f"         , spawn "firefox         )
+  , ("M-f"         , spawn "firefox"         )
   , ("M-w"         , spawn "codium"          )
-  , ("M-t"         , spawn "flatpak run org.telegram.desktop")
+  , ("M-t"         , spawn "telegram-desktop")
   , ("M-d"         , spawn "discord"         )
   , ("M-a"         , spawn "annotator"       )      
   ]  
