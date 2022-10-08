@@ -88,3 +88,4 @@ Prompt
 * `polybar`
 * `pulseaudio`
 * `pavucontrol`
+* `lux`
