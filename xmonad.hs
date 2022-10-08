@@ -100,6 +100,7 @@ myKeymap = \c
   ++ popupKeys
   ++ audioKeys
   ++ volumeKeys
+  ++ brightnessKeys
 
 windowsFocus =
   [ ("M1-<Tab>"     , windows W.focusDown)
@@ -140,6 +141,11 @@ volumeKeys =
   [ ("<XF86AudioMute>", spawn "pactl set-sink-mute @DEFAULT_SINK@ toggle")
   , ("<XF86AudioLowerVolume>", spawn "pactl set-sink-volume @DEFAULT_SINK@ -5%")
   , ("<XF86AudioRaiseVolume>", spawn "pactl set-sink-volume @DEFAULT_SINK@ +5%")
+  ]
+
+brightnessKeys = 
+  [ ("<XF86MonBrightnessUp>", spawn "lux -a 5%")
+  , ("<XF86MonBrightnessDown>", spawn "lux -s 5%")
   ]
 
 workspaceKeys = \c -> [ ("M-S-w", submap $ mkKeymap c keymap) ] where
