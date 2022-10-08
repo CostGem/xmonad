@@ -68,6 +68,11 @@ Screenshots
 
 Volume keys
 
+* `<XF86MonBrightnessUp>` - increase brightness by 5%
+* `<XF86MonBrightnessDown>` - reduce volume by 5%
+
+Brightness keys
+
 * `XF86AudioMute` - mute volume
 * `<XF86AudioLowerVolume>` - reduce volume by 5%
 * `<XF86AudioRaiseVolume>` - increase volume by 5%
