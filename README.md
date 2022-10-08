@@ -46,19 +46,8 @@ Application keys
 * `M-S-c` - kill
 * `M-S-<Return>` - start terminal
 * `M-e` - start Nautilus
-* `M-f` - start Firefox
-* `M-w` - start VSCodium
 * `M-t` - start Telegram (Flatpak)
-* `M-w` - start Discord
-
-Webpage keys
-
-* `M-p a` - open [AUR](https://aur.archlinux.org/)
-* `M-p h` - open [Hoogle](https://hoogle.haskell.org/)
-* `M-p y` - open [YouTube](https://www.youtube.com/)
-* `M-p v` - open [Vk Messages](https://vk.com/im)
-* `M-p m` - open [GoogleMail](https://mail.google.com/)
-* `M-p c` - open [Google Calendar](https://calendar.google.com)
+* `M-c` - start Chrome (Flatpak)
 
 Pop-up keys
 
@@ -77,11 +66,11 @@ Screenshots
 * `M-<Print>` - selection (to Annotator)
 * `M-S-<Print>` - fullscreen (to Annotator)
 
-Audio keys
+Volume keys
 
-* `<XF86AudioPlay>` - toggle play\pause
-* `<XF86AudioPrev>` - previous track
-* `<XF86AudioNext>` - next track
+* `XF86AudioMute` - mute volume
+* `<XF86AudioLowerVolume>` - reduce volume by 5%
+* `<XF86AudioRaiseVolume>` - increase volume by 5%
 
 Prompt
 
