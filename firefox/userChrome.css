@@ -1,8 +1,0 @@
-/*
-This one hides tab bar if you have either native titlebar or menubar enabled
-If not - try this (untested): https://github.com/MrOtherGuy/firefox-csshacks/blob/master/chrome/hide_tabs_toolbar.css
-*/
-
-#TabsToolbar {
-    visibility: collapse !important
-}

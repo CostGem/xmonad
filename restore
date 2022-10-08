@@ -1,5 +1,0 @@
-#!/bin/sh
-
-cp xmonad.test.hs xmonad.hs
-xmonad --recompile
-xmonad --restart 
